@@ -1,0 +1,32 @@
+#title,
+li {
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#title {
+    text-align: center;
+    font-size: 50px;
+}
+
+img {
+    display: block;
+    height: auto;
+    width: 900px;
+}
+
+li {
+    font-size: 35px;
+} 
+
+#pizza {
+    color: red;
+}
+
+#aglio {
+    color: green;
+}
+
+#scrambled {
+    color: yellow;
+}
